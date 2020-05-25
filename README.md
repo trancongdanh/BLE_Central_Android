@@ -1,6 +1,6 @@
 # BLE_Central_Android
 
-- App2: java App running on Android.  acting likes a BLE central (client) and has a loop:
+Java App running on Android.  acting likes a BLE central (client) and has a loop:
 Scan for "BLE" broadcast-ed by app1
 Connect and discover service a writable characteristic from app 1
 Send "RED" to this characteristic 

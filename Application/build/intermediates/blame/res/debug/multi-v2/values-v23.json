@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/danhtc/Desktop/Projects/BLE/BluetoothLeGatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/danhtc/.gradle/caches/transforms-2/files-2.1/d280ec5d1eac08885b834bf6ffaad6a0/cardview-v7-28.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        }
+    ]
+}
